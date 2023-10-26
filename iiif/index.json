@@ -22,7 +22,7 @@
             "type": "Manifest",
             "label": {
                 "none": [
-                    "Arco-iris nos Fiordes"
+                    "Fiordes da Noruega"
                 ]
             }
         },
@@ -40,7 +40,7 @@
             "type": "Manifest",
             "label": {
                 "none": [
-                    "Sol brilhando nos Fiordes"
+                    "Fiordes da Noruega"
                 ]
             }
         },
@@ -49,7 +49,7 @@
             "type": "Manifest",
             "label": {
                 "none": [
-                    "Cascata nos Fiordes"
+                    "Fiordes da Noruega"
                 ]
             }
         },
@@ -117,15 +117,6 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/07/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none": [
-                    "Fiordes da Noruega"
-                ]
-            }
-        },
-        {
             "id": "https://viagens-iiif.vercel.app/06/manifest.json",
             "type": "Manifest",
             "label": {
@@ -172,33 +163,6 @@
         },
         {
             "id": "https://viagens-iiif.vercel.app/24/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none": [
-                    "Pequena Flam"
-                ]
-            }
-        },
-        {
-            "id": "https://viagens-iiif.vercel.app/18/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none": [
-                    "Pequena Flam"
-                ]
-            }
-        },
-        {
-            "id": "https://viagens-iiif.vercel.app/17/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none": [
-                    "Xperience Flam"
-                ]
-            }
-        },
-        {
-            "id": "https://viagens-iiif.vercel.app/16/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -271,15 +235,6 @@
         },
         {
             "id": "https://viagens-iiif.vercel.app/02/manifest.json",
-            "type": "Manifest",
-            "label": {
-                "none": [
-                    "Cidade de Voss"
-                ]
-            }
-        },
-        {
-            "id": "https://viagens-iiif.vercel.app/01/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
