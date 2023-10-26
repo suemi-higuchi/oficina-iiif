@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://viagens-iiif.vercel.app/index.json",
+    "id": "https://oficina-iiif-new.vercel.app/index.json",
     "type": "Collection",
     "label": {
         "none": [
@@ -9,7 +9,7 @@
     },
     "thumbnail": [
         {
-            "id": "https://viagens-iiif.vercel.app/26/697184da2c05135d1aeb351acab8a249/full/300,169/0/default.jpg",
+            "id": "https://oficina-iiif-new.vercel.app/26/697184da2c05135d1aeb351acab8a249/full/300,169/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 169,
@@ -18,7 +18,7 @@
     ],
     "items": [
         {
-            "id": "https://viagens-iiif.vercel.app/26/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/26/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -27,7 +27,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/25/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/25/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -36,7 +36,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/23/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/23/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -45,7 +45,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/22/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/22/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -54,7 +54,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/21/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/21/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -63,7 +63,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/20/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/20/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -72,7 +72,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/19/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/19/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -81,7 +81,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/11/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/11/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -90,7 +90,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/10/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/10/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -99,7 +99,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/09/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/09/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -108,7 +108,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/08/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/08/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -117,7 +117,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/06/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/06/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -126,7 +126,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/30/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/30/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -135,7 +135,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/29/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/29/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -144,7 +144,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/28/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/28/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -153,7 +153,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/27/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/27/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -162,7 +162,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/24/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/24/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -171,7 +171,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/15/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/15/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -180,7 +180,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/14/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/14/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -189,7 +189,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/13/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/13/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -198,7 +198,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/12/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/12/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -207,7 +207,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/05/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/05/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -216,7 +216,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/04/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/04/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -225,7 +225,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/03/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/03/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
@@ -234,7 +234,7 @@
             }
         },
         {
-            "id": "https://viagens-iiif.vercel.app/02/manifest.json",
+            "id": "https://oficina-iiif-new.vercel.app/02/manifest.json",
             "type": "Manifest",
             "label": {
                 "none": [
