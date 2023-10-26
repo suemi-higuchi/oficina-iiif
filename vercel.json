@@ -1,0 +1,28 @@
+// 20231026095615
+// https://file.notion.so/f/f/b5e2a9f0-e590-4554-a3f5-4b2e9eb147b0/d7739ff0-d485-4984-b33d-25481b404ce6/vercel.json?id=1383d070-2fb2-4529-92f8-13727ffa11ae&table=block&spaceId=b5e2a9f0-e590-4554-a3f5-4b2e9eb147b0&expirationTimestamp=1698415200000&signature=oOQJMpQH_HyFbuwnwlpUU7jsrKmDXUVJjz0yE2zcy1c&downloadName=vercel.json
+
+{
+  "headers": [
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        {
+          "key": "Access-Control-Allow-Credentials",
+          "value": "true"
+        },
+        {
+          "key": "Access-Control-Allow-Origin",
+          "value": "*"
+        },
+        {
+          "key": "Access-Control-Allow-Methods",
+          "value": "GET,OPTIONS,PATCH,DELETE,POST,PUT"
+        },
+        {
+          "key": "Access-Control-Allow-Headers",
+          "value": "X-CSRF-Token, X-Requested-With, Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date, X-Api-Version"
+        }
+      ]
+    }
+  ]
+}
