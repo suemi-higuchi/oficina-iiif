@@ -1,0 +1,31 @@
+{
+  "@context": "http://iiif.io/api/image/3/context.json",
+  "id": "https://viagens-iiif.vercel.app/12/613cf903169edcd9bc5d89b1c0d47286",
+  "type": "ImageService3",
+  "profile": "level0",
+  "protocol": "http://iiif.io/api/image",
+  "tiles": [
+    {
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8,
+        16
+      ],
+      "width": 256
+    }
+  ],
+  "width": 4608,
+  "height": 2592,
+  "sizes": [
+    {
+      "width": 300,
+      "height": 169
+    },
+    {
+      "width": 2000,
+      "height": 1125
+    }
+  ]
+}

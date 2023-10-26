@@ -1,0 +1,93 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://viagens-iiif.vercel.app/23/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Sol brilhando nos Fiordes"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Suemi Higuchi"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotografias"
+                ]
+            }
+        }
+    ],
+    "rights": "Privado",
+    "thumbnail": [
+        {
+            "id": "https://viagens-iiif.vercel.app/23/f617c61fdb8e795eed2a405abfebf906/full/204,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 204
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página do objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://viagens-iiif.vercel.app/23/canvas/0",
+            "type": "Canvas",
+            "height": 3456,
+            "width": 2359,
+            "items": [
+                {
+                    "id": "https://viagens-iiif.vercel.app/23/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://viagens-iiif.vercel.app/23/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://viagens-iiif.vercel.app/23/canvas/0",
+                            "body": {
+                                "id": "https://viagens-iiif.vercel.app/23/f617c61fdb8e795eed2a405abfebf906/full/1365,2000/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 2000,
+                                "width": 1365,
+                                "service": [
+                                    {
+                                        "id": "https://viagens-iiif.vercel.app/23/f617c61fdb8e795eed2a405abfebf906",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

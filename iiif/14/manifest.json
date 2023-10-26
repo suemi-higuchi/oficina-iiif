@@ -1,0 +1,93 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://viagens-iiif.vercel.app/14/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Pequena Flam"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Suemi Higuchi"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotografias"
+                ]
+            }
+        }
+    ],
+    "rights": "Privado",
+    "thumbnail": [
+        {
+            "id": "https://viagens-iiif.vercel.app/14/9f491a90727114e1ba68db55de20ee0e/full/300,169/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 169,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página do objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://viagens-iiif.vercel.app/14/canvas/0",
+            "type": "Canvas",
+            "height": 2592,
+            "width": 4608,
+            "items": [
+                {
+                    "id": "https://viagens-iiif.vercel.app/14/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://viagens-iiif.vercel.app/14/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://viagens-iiif.vercel.app/14/canvas/0",
+                            "body": {
+                                "id": "https://viagens-iiif.vercel.app/14/9f491a90727114e1ba68db55de20ee0e/full/2000,1125/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1125,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://viagens-iiif.vercel.app/14/9f491a90727114e1ba68db55de20ee0e",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

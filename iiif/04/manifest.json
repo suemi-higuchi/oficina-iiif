@@ -1,0 +1,93 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://viagens-iiif.vercel.app/04/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "none": [
+            "Cidade de Voss"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Suemi Higuchi"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "none": [
+                    "Fotografias"
+                ]
+            }
+        }
+    ],
+    "rights": "Privado",
+    "thumbnail": [
+        {
+            "id": "https://viagens-iiif.vercel.app/04/4dc504e085299ffdb79dbb1ce74f274f/full/300,176/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 176,
+            "width": 300
+        }
+    ],
+    "homepage": [
+        {
+            "type": "Text",
+            "format": "text/html",
+            "label": {
+                "none": [
+                    "Página do objeto"
+                ]
+            }
+        }
+    ],
+    "items": [
+        {
+            "id": "https://viagens-iiif.vercel.app/04/canvas/0",
+            "type": "Canvas",
+            "height": 1842,
+            "width": 3140,
+            "items": [
+                {
+                    "id": "https://viagens-iiif.vercel.app/04/canvas/0/annotation-page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://viagens-iiif.vercel.app/04/annotation/0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://viagens-iiif.vercel.app/04/canvas/0",
+                            "body": {
+                                "id": "https://viagens-iiif.vercel.app/04/4dc504e085299ffdb79dbb1ce74f274f/full/2000,1173/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1173,
+                                "width": 2000,
+                                "service": [
+                                    {
+                                        "id": "https://viagens-iiif.vercel.app/04/4dc504e085299ffdb79dbb1ce74f274f",
+                                        "type": "ImageService3",
+                                        "profile": "http://iiif.io/api/image/3/level0.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
